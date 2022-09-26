@@ -1,5 +1,5 @@
 ![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
-</br>
+<br>
 <h1 align="center">Hi 👋, I'm Muhammad Manan</h1>
 <h3 align="center">A passionate flutter frontend developer from Pakistan</h3>
 
@@ -54,7 +54,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopstack33&show_icons=true&locale=en&layout=compact" alt="loopstack33" /></p>
 
-</br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loopstack33&show_icons=true&locale=en" alt="loopstack33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loopstack33&" alt="loopstack33" /></p>
