@@ -1,4 +1,5 @@
-[![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)]
+![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
+</br>
 <h1 align="center">Hi 👋, I'm Muhammad Manan</h1>
 <h3 align="center">A passionate flutter frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width = 400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
