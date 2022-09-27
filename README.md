@@ -30,8 +30,6 @@
 
 - ⚡ Fun fact **I like to play games a-lot and love researching**
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
-
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <h3 align="left">Connect with me:</h3>
