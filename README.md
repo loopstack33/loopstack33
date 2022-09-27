@@ -30,6 +30,9 @@
 
 - ⚡ Fun fact **I like to play games a-lot and love researching**
 
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
