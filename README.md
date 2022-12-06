@@ -17,7 +17,9 @@
 ---
 
 👨‍💻 MY FLUTTER PACKAGES
-Fancy Buttons[![Pub Version](https://img.shields.io/pub/v/fancy_button_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_button_new)
+---
+Fancy Buttons
+[![Pub Version](https://img.shields.io/pub/v/fancy_button_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_button_new)
 
 ## 🏆:  Trophy Case
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loopstack33" alt="loopstack33" /></a> </p>
