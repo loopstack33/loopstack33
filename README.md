@@ -1,18 +1,13 @@
 ![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
 <br>
-# **Hi there👋, I am Muhammad Manan**
+# **Hi there👋, I am Syed Muhammad Raza**
 ---
 ## :information_desk_person:  About Me
-#### I am a lead mobile app developer. My journey started in USTI Lahore. Following that:
-- 🔭 I’m currently working on [myUIC App made with flutter](https://play.google.com/store/apps/details?id=com.theunitedinsurance.myuic)
 - 🌱 I started learning PHP, Laravel, Java, Figma, Adobe and MySql, whilst contributing to other developer's works.
 - 👯 I’m looking to expand my collaborations on native and/or cross-platform development.
 - 🤝 I’m availabe here for help with **flutter**
 - 👨‍💻 All of my projects are available at [https://github.com/loopstack33](https://github.com/loopstack33)
-- 📝 I write articles on [https://medium.com/@loopsstack](https://medium.com/@loopsstack)
 - 💬 Ask me about **php core, UI/UX, flutter, mySQL, Laravel**
-- 📫 How to reach me **loopsstack@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IEp8Z2p2UnMH_6SnJfhwpHKEt0NEhNMC/view?usp=sharing](https://drive.google.com/file/d/1IEp8Z2p2UnMH_6SnJfhwpHKEt0NEhNMC/view?usp=sharing)
 - ⚡ Fun fact **I like to play games a-lot and love researching**
 ---
 
@@ -152,7 +147,6 @@ Fancy Buttons
 ---
 ## :computer:  My GitHub Stats
 <div align="center">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopstack33&show_icons=true&locale=en&layout=compact" alt="loopstack33"/>
    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loopstack33" alt="loopStats"/>
 </div>
 <div align="center">
