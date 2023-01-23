@@ -1,6 +1,6 @@
 ![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
 <br>
-# **Hi there👋, I am Syed Muhammad Raza**
+# **Hi there👋, I am Muhammad Manan**
 ---
 ## :information_desk_person:  About Me
 #### I am a lead mobile app developer. My journey started in USTI Lahore. Following that:
