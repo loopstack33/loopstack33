@@ -5,6 +5,12 @@
 # 💫 About Me:
 I am a lead mobile app developer. My journey started at USTI Lahore. Following that:<br>🔭 I’m currently working on myUIC App made with flutter<br>🌱 I started learning PHP, Laravel, Java, Figma, Adobe, and MySql, whilst contributing to other developers' works.<br>👯 I’m looking to expand my collaborations on native and/or cross-platform development.<br>🤝 I’m available here for help with flutter<br>👨‍💻 All of my projects are available at https://github.com/loopstack33<br>📝 I write articles on https://medium.com/@loopsstack<br>💬 Ask me about PHP core, UI/UX, flutter, mySQL, Laravel<br>📫 How to reach me loopsstack@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1IEp8Z2p2UnMH_6SnJfhwpHKEt0NEhNMC/view?usp=sharing<br>⚡ Fun fact I like to play games a lot and love researching
 
+## 👨‍💻 My Flutter Packages:
+Fancy Buttons 
+ [![Pub Version](https://img.shields.io/pub/v/fancy_button_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_button_new)
+
+Fancy Fields 
+ [![Pub Version](https://img.shields.io/pub/v/fancy_field_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_field_new)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/loopstack) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.manan.77582) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manan_22_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-manan-681b74145) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@loopsstack) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19195359) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/loopsstack33) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCMXD_Qb3V89XM7uy2sqAptA) 
