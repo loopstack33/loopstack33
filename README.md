@@ -1,4 +1,4 @@
-![MasterHead]([https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png](https://github.com/loopstack33/bayFit/assets/99548269/68ee7e79-8302-48f3-807d-80c8e89d4f21))
+![MasterHead]([https://github.com/loopstack33/bayFit/assets/99548269/68ee7e79-8302-48f3-807d-80c8e89d4f21])
 <br>
 # **Hi there👋, I am Muhammad Manan**
 
