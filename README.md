@@ -16,6 +16,9 @@ Fancy Fields
  Fancy States 
  [![Pub Version](https://img.shields.io/pub/v/fancy_states?color=blue&logo=dart)](https://pub.dev/packages/fancy_states)
 
+ Fancy Popups New 
+ [![Pub Version](https://img.shields.io/pub/v/fancy_popups_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_popups_new)
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/loopstack) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.manan.77582) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manan_22_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-manan-681b74145) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@loopsstack) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19195359) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/loopsstack33) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCMXD_Qb3V89XM7uy2sqAptA) 
 
