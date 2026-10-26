@@ -86,7 +86,7 @@ Fancy Fields
   <a href="https://github.com/loopstack33">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://mananxfolio.web.app/">
+  <a href="https://bashlog.com/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/681b74145/">
@@ -100,7 +100,7 @@ Fancy Fields
   </a>
 </p>
 
-📄 **[Explore My Projects](https://github.com/loopstack33?tab=repositories)** · **[View My Portfolio](https://mananxfolio.web.app/)** · **[Read My Articles](https://medium.com/@loopsstack)**
+📄 **[Explore My Projects](https://github.com/loopstack33?tab=repositories)** · **[View My Portfolio](https://bashlog.com/)** · **[Read My Articles](https://medium.com/@loopsstack)**
 
 ---
 
@@ -125,7 +125,7 @@ I'm always interested in connecting with developers, founders, and teams who wan
 
 📩 **Email:** loopsstack@gmail.com
 
-💼 **Portfolio:** https://mananxfolio.web.app/
+💼 **Portfolio:** https://bashlog.com/
 
 ⭐ If you find something useful in my repositories, consider giving it a star!
 
