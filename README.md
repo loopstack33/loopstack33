@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/user-attachments/assets/afc235c8-e50e-4d55-a16e-ccb3406cc25d)
+<br>
 # 👋 Hey, I'm Muhammad Manan
 
 ### 🚀 Senior Mobile App Engineer | Flutter Specialist | Building Apps That Scale
@@ -64,6 +66,20 @@ I turn ideas into **beautiful, reliable, production-ready mobile applications**.
 
 ---
 
+## 👨‍💻 My Flutter Packages:
+
+Fancy Buttons 
+ [![Pub Version](https://img.shields.io/pub/v/fancy_button_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_button_new)
+
+Fancy Fields 
+ [![Pub Version](https://img.shields.io/pub/v/fancy_field_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_field_new)
+ 
+ Fancy States 
+ [![Pub Version](https://img.shields.io/pub/v/fancy_states?color=blue&logo=dart)](https://pub.dev/packages/fancy_states)
+
+ Fancy Popups New 
+ [![Pub Version](https://img.shields.io/pub/v/fancy_popups_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_popups_new)
+
 ## 🌐 Find Me Online
 
 <p align="left">
@@ -114,6 +130,9 @@ I'm always interested in connecting with developers, founders, and teams who wan
 ⭐ If you find something useful in my repositories, consider giving it a star!
 
 ---
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/loopsstack6) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MuhammadManan) 
 
 <p align="center">
   <i>"Great software isn't just about writing code. It's about solving problems, creating experiences, and making ideas work."</i>
