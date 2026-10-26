@@ -100,7 +100,7 @@ Fancy Fields
   </a>
 </p>
 
-📄 **[Explore My Projects](https://github.com/loopstack33?tab=repositories)** · **[View My Portfolio](https://bashlog.com/)** · **[Read My Articles](https://medium.com/@loopsstack)**
+📄 **[Explore My Projects](https://github.com/loopstack33?tab=repositories)** · **[View My Agency](https://bashlog.com/)** · **[Read My Articles](https://medium.com/@loopsstack)**
 
 ---
 
@@ -125,7 +125,7 @@ I'm always interested in connecting with developers, founders, and teams who wan
 
 📩 **Email:** loopsstack@gmail.com
 
-💼 **Portfolio:** https://bashlog.com/
+💼 **Agency:** https://bashlog.com/
 
 ⭐ If you find something useful in my repositories, consider giving it a star!
 
