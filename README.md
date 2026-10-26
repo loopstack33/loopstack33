@@ -1,45 +1,124 @@
-![MasterHead](https://github.com/user-attachments/assets/afc235c8-e50e-4d55-a16e-ccb3406cc25d)
-<br>
-# **Hi there👋, I am Muhammad Manan**
+# 👋 Hey, I'm Muhammad Manan
 
-# 💫 About Me:
-I am a lead mobile app developer. My journey started at USTI Lahore. Following that:<br>🔭 I’m currently working on myUIC App made with flutter<br>🌱 I started learning PHP, Laravel, Java, Figma, Adobe, and MySql, whilst contributing to other developers' works.<br>👯 I’m looking to expand my collaborations on native and/or cross-platform development.<br>🤝 I’m available here for help with flutter<br>👨‍💻 All of my projects are available at https://github.com/loopstack33<br>📝 I write articles on https://medium.com/@loopsstack<br>💬 Ask me about PHP core, UI/UX, flutter, mySQL, Laravel<br>📫 How to reach me loopsstack@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1IEp8Z2p2UnMH_6SnJfhwpHKEt0NEhNMC/view?usp=sharing<br>⚡ Fun fact I like to play games a lot and love researching
+### 🚀 Senior Mobile App Engineer | Flutter Specialist | Building Apps That Scale
 
-## 👨‍💻 My Flutter Packages:
+I turn ideas into **beautiful, reliable, production-ready mobile applications**. As a Senior Mobile App Engineer at **BashLog**, I focus on building seamless digital experiences, developing scalable mobile solutions, and helping products move from concept to launch.
 
-Fancy Buttons 
- [![Pub Version](https://img.shields.io/pub/v/fancy_button_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_button_new)
-
-Fancy Fields 
- [![Pub Version](https://img.shields.io/pub/v/fancy_field_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_field_new)
- 
- Fancy States 
- [![Pub Version](https://img.shields.io/pub/v/fancy_states?color=blue&logo=dart)](https://pub.dev/packages/fancy_states)
-
- Fancy Popups New 
- [![Pub Version](https://img.shields.io/pub/v/fancy_popups_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_popups_new)
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/loopstack) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.manan.77582) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manan_22_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-manan-681b74145) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@loopsstack) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19195359) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/loopsstack33) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCMXD_Qb3V89XM7uy2sqAptA) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=loopstack33&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=loopstack33&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=loopstack33&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=loopsstack33)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💡 **My mission:** Build mobile applications that solve real problems, deliver exceptional user experiences, and make a meaningful impact.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=loopstack33&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/loopsstack6) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MuhammadManan) 
+## 💫 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📱 **Mobile Development:** Specialized in Flutter and cross-platform iOS & Android applications.
+- 👨‍💻 **Engineering Leadership:** Leading a team of developers and working on app performance, stability, and maintainability.
+- 🚀 **Production Experience:** Contributed to 10+ published mobile applications across various industries.
+- 🎨 **UI/UX Focused:** Transforming designs into polished, responsive, user-friendly interfaces.
+- 🔥 **Backend & Integrations:** Working with Firebase, Supabase, REST APIs, authentication, payments, and push notifications.
+- 🤝 **Open to Collaboration:** Interested in meaningful projects, innovative products, and challenging engineering problems.
+- 🧠 **Always Learning:** Exploring new technologies, better architectures, and ways to build smarter software.
+- 🎮 **Beyond Code:** A gaming enthusiast who enjoys researching technology and discovering new ideas.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### ⚙️ State Management & Architecture
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+
+### ☁️ Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🎨 Design & Developer Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 What I Build
+
+📦 **On-Demand & Delivery Apps** — Order management, rider workflows, tracking, and logistics.
+
+📅 **Booking & Service Platforms** — Smooth scheduling, customer experiences, and service management.
+
+💳 **Fintech Integrations** — Payment gateways, transaction workflows, and secure API integrations.
+
+🙏 **Lifestyle & Community Apps** — Engaging experiences built around users and their everyday needs.
+
+🔔 **Real-Time Features** — Push notifications, background tasks, live updates, and location-based functionality.
+
+✨ **From UI to Deployment** — Complete mobile development, API integration, testing, optimization, and app store releases.
+
+---
+
+## 🌐 Find Me Online
+
+<p align="left">
+  <a href="https://github.com/loopstack33">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://mananxfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/681b74145/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@loopsstack">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:loopsstack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+📄 **[Explore My Projects](https://github.com/loopstack33?tab=repositories)** · **[View My Portfolio](https://mananxfolio.web.app/)** · **[Read My Articles](https://medium.com/@loopsstack)**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=loopstack33&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Muhammad Manan's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopstack33&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=loopstack33&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🤝 Let's Build Something Great!
+
+I'm always interested in connecting with developers, founders, and teams who want to build useful, impactful software.
+
+**Have a mobile app idea, need a Flutter specialist, or want to collaborate on an exciting project? Let's talk.**
+
+📩 **Email:** loopsstack@gmail.com
+
+💼 **Portfolio:** https://mananxfolio.web.app/
+
+⭐ If you find something useful in my repositories, consider giving it a star!
+
+---
+
+<p align="center">
+  <i>"Great software isn't just about writing code. It's about solving problems, creating experiences, and making ideas work."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=loopstack33&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
